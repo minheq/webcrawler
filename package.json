@@ -1,0 +1,24 @@
+{
+  "name": "webcrawler",
+  "version": "1.0.0",
+  "description": "crawling renotalk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/minheq/webcrawler.git"
+  },
+  "author": "Vu Hoang Minh",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/minheq/webcrawler/issues"
+  },
+  "homepage": "https://github.com/minheq/webcrawler"
+}
